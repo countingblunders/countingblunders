@@ -1,8 +1,8 @@
 ### Hi there 👋, I am CountingBlunders
 
 - 🌱 I’m currently learning python
-
-![CountingBlunders' GitHub stats](https://github-readme-stats.vercel.app/api?username=countingblunders&hide=contribs,prs)
+-
+![CountingBlunders' GitHub stats](https://github-readme-stats.vercel.app/api?username=countingblunders&hide=contribs,prs&theme=dark)
 
 <!--
 Here are some ideas to get you started:
