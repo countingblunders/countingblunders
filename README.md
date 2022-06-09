@@ -1,9 +1,10 @@
-### Hi there 👋, I am CountingBlunders
+## Hi there 👋, I am CountingBlunders
 
 - 🌱 I’m currently learning python
 - I know a little bit of html, css and js
-- 
 
+### Tools:
+https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg
 
 ![CountingBlunders' GitHub stats](https://github-readme-stats.vercel.app/api?username=countingblunders&hide=contribs,prs&theme=onedark)
 
