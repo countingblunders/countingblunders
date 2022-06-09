@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning python
 -
-![CountingBlunders' GitHub stats](https://github-readme-stats.vercel.app/api?username=countingblunders&hide=contribs,prs&theme=dark)
+![CountingBlunders' GitHub stats](https://github-readme-stats.vercel.app/api?username=countingblunders&hide=contribs,prs&theme=onedark)
 
 <!--
 Here are some ideas to get you started:
