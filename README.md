@@ -5,7 +5,7 @@
 
 ### Tools:
 
-!(https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
 
 ![CountingBlunders' GitHub stats](https://github-readme-stats.vercel.app/api?username=countingblunders&hide=contribs,prs&theme=onedark)
 
