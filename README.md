@@ -6,6 +6,8 @@
 ### Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+
 
 ![CountingBlunders' GitHub stats](https://github-readme-stats.vercel.app/api?username=countingblunders&hide=contribs,prs&theme=onedark)
 
