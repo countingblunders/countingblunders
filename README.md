@@ -11,7 +11,7 @@
 
 ![CountingBlunders' GitHub stats](https://github-readme-stats.vercel.app/api?username=countingblunders&hide=contribs,prs&theme=onedark)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=countingblunders)](https://github.com/countingblunders/github-readme-stats)
 <!--
 Here are some ideas to get you started:
 
